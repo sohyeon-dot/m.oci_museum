@@ -31,7 +31,7 @@ header{
 main{
   position: relative;
   width: 100%;
-  height: 80rem;
+  height: 100vh;
   background: url(../image/main.jpg) no-repeat center/cover;
 }
 main:before{
@@ -164,7 +164,7 @@ section h2 span{
 #s1 p{
   position: relative;
   width: max-content;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   margin: 2rem auto 0;
 }
 #s1 p:before{
@@ -204,7 +204,7 @@ section h2 span{
   font-size: 1.6rem;
 }
 #s2 .more_view{
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-weight: 500;
   float: right;
   margin-top: 2rem;
@@ -229,22 +229,22 @@ section h2 span{
   font-weight: 400;
   font-size: 2rem;
 }
-#s4{width: 92%;}
+#s4{width: 95%;}
 #s4 .top_map{
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 #s4 .top_map .text p{
-  font-size: 1.2rem;
-  margin-bottom: .3rem;
+  font-size: 1.3rem;
+  margin-bottom: .5rem;
 }
 #s4 .top_map .text p b{
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-weight: 500;
 }
 #s4 .top_map .text p:nth-child(1){
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   font-weight: 700;
 }
 #s4 .top_map .map img{width: 7rem;}
