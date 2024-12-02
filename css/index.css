@@ -155,12 +155,12 @@ section h2 span{
   font-size: 2rem;
 }
 
-#s1 .mySwiper1 {
+#s1 .mySwiper11 {
   margin: auto;
   width: 32rem;
   height: 32rem;
 }
-#s1 .mySwiper1 .swiper-slide {border: 0.1rem solid #eee;}
+#s1 .mySwiper11 .swiper-slide {border: 0.1rem solid #eee;}
 #s1 p{
   position: relative;
   width: max-content;
@@ -210,11 +210,11 @@ section h2 span{
   margin-top: 2rem;
 }
 
-#s3 .mySwiper2 {
+#s3 .mySwiper12 {
   width: 25rem;
   height: max-content;
 }
-#s3 .mySwiper2 .swiper-slide {
+#s3 .mySwiper12 .swiper-slide {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -224,8 +224,8 @@ section h2 span{
   background-color: #fff;
   box-shadow: 0 0 .2rem rgba(66, 66, 66, 0.3);
 }
-#s3 .mySwiper2 .swiper-slide p{margin: 3rem 1.5rem;}
-#s3 .mySwiper2 .swiper-slide p b{
+#s3 .mySwiper12 .swiper-slide p{margin: 3rem 1.5rem;}
+#s3 .mySwiper12 .swiper-slide p b{
   font-weight: 400;
   font-size: 2rem;
 }
